@@ -4,6 +4,7 @@
 
 #####Какие есть системы сборки?
 ![gulpandgrunt](https://s3.amazonaws.com/media-p.slid.es/thumbnails/marcdix/ba8ebd/gulp.jpg)
+1
 Сейчас есть две популярных системы сборки: **Grunt** и **Gulp**.
 Чем отличаются друг от друга можно почитать [тут](http://frontender.info/no-need-to-grunt-take-a-gulp-of-fresh-air/)
 
